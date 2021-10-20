@@ -3,7 +3,6 @@
  
 - 👀 I’m interested in Machine Learning, Crypto Trading, ReactJs.
 - 🌱 I’m currently learning High Frequency Trading & Blockchain.
-- 👨‍💻 Checkout my work-: <a href="https://hillnickcapitals.com/">hillnickcapitals.com</a>
 - 🧑‍🤝‍🧑 I'm looking to collaborate on Blockchain & Etherum based projects.
 - 📫 Connect with me at-:<ul><li>✔️ LinkedIn-: <a href="https://www.linkedin.com/in/daksh-lakhotiya-36008b190/">https://www.linkedin.com/in/daksh-lakhotiya-36008b190/</a></li><li>✔️ Email-: <a>lakhotiyadk02@gmail.com</a></li></ul>
 - 👨‍💻 Checkout my work-: <a href="https://hillnickcapitals.com/">hillnickcapitals.com</a>
