@@ -1,5 +1,5 @@
  ## Hi There 👋 
- #### I am Daksh. I love programming & trading. Currently, I am working on Etherum Blockchain & tradingbot.  I am looking forward to work with and contribute to projects to further hone my skills.
+ #### I am Daksh. I love programming & trading. Currently, I am working on tradingbot.  I am looking forward to work with and contribute to projects to further hone my skills.
  
 - 👀 I’m interested in Machine Learning, Crypto Trading, ReactJs.
 - 🌱 I’m currently learning High Frequency Trading & Blockchain.
